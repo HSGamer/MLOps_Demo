@@ -1,0 +1,22 @@
+artifact_path: file:///home/hsgamer/PycharmProjects/MLOps_Demo/mlruns/899363939873710706/models/m-1b74cd5e77cb4b78a42b424734580b56/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-1b74cd5e77cb4b78a42b424734580b56
+model_size_bytes: 232153375
+model_uuid: m-1b74cd5e77cb4b78a42b424734580b56
+prompts: null
+run_id: 96fce4cb5b4a4ffbb04e7182918fc4ac
+utc_time_created: '2025-11-13 08:19:54.234169'

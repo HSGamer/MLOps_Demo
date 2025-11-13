@@ -1,0 +1,14 @@
+[project]
+name = "mlops-demo"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.1.2",
+    "mlflow>=3.6.0",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "pandas-stubs==2.3.2.250926",
+    "pillow>=12.0.0",
+    "scikit-learn>=1.7.2",
+]

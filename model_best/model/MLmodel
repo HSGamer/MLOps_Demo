@@ -1,4 +1,4 @@
-artifact_path: file:///home/hsgamer/PycharmProjects/MLOps_Demo/mlruns/899363939873710706/models/m-1b74cd5e77cb4b78a42b424734580b56/artifacts
+artifact_path: file:///home/hsgamer/PycharmProjects/MLOps_Demo/mlruns/899363939873710706/models/m-46488fb117534290bc130b4a37b54894/artifacts
 flavors:
   python_function:
     env:
@@ -14,9 +14,9 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.7.2
 mlflow_version: 3.6.0
-model_id: m-1b74cd5e77cb4b78a42b424734580b56
-model_size_bytes: 232153375
-model_uuid: m-1b74cd5e77cb4b78a42b424734580b56
+model_id: m-46488fb117534290bc130b4a37b54894
+model_size_bytes: 268805407
+model_uuid: m-46488fb117534290bc130b4a37b54894
 prompts: null
-run_id: 96fce4cb5b4a4ffbb04e7182918fc4ac
-utc_time_created: '2025-11-13 08:19:54.234169'
+run_id: 5a98d184e72647ee9f650d9d3b71c30d
+utc_time_created: '2025-11-13 09:20:48.847567'
